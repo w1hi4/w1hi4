@@ -1,6 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Security+Researcher;Production+Infrastructure&center=true&width=600&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Security+Researcher;Production+Infrastructure&center=true&width=650&height=55" />
 </h1>
+
+<p align="center">
+  <a href="https://github.com/w1hi4">
+    <img src="https://img.shields.io/badge/GitHub-w1hi4-181717?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=w1hi4&label=Visitors&color=0e75b6&style=for-the-badge" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-FF6B6B?style=for-the-badge" />
@@ -51,16 +58,18 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <!-- Core Stack -->
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,nestjs,postgres,mongodb,python,go,rust,dart,flutter,kotlin,docker,git&perline=8" />
 </p>
 
 <p align="center">
-  <!-- Extended Stack -->
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black" />
   <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+<p align="center">
+  <sub>MERN Stack • Real-time Systems • Distributed Systems • Cross-Platform Apps</sub>
 </p>
 
 ---

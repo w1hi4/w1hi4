@@ -1,49 +1,58 @@
-<h1 align="center">⚡ Wahid</h1>
-<h3 align="center">Systems Engineer • Security Research • Cross-Platform Developer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Systems+Engineer;Security+Researcher;Real-Time+Systems;Production+Infrastructure&center=true&width=600&height=50" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Real-Time+Systems;Security+%26+Automation;Full-Stack+%26+Cross-Platform;Building+Production-Ready+Systems&center=true&width=550&height=45" />
+  <img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Timezone-UTC%2B05:30-4ECDC4?style=for-the-badge" />
+  <a href="https://linkedin.com/in/samani-wahiduddin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
-## 🧠 Profile
+## 🧠 About Me
 
-> I build scalable systems, security tools, and cross-platform applications.
+**Wahiduddin Samani** — Systems Engineer specializing in real-time infrastructure, security-focused systems, and scalable backend architecture.
 
-- 📡 Real-time systems (MQTT, tracking, dashboards)
-- 🔐 Security research & detection systems
-- 🤖 Automation & data pipelines
-- 🖥️ Cross-platform apps (Web, Mobile, Desktop)
-- ⚙️ Backend architecture & APIs
-
----
-
-## 🚀 Domains
-
-### ⚡ Systems & Infrastructure
-- Real-time tracking systems  
-- Dashboard & monitoring platforms  
-- API & backend architecture  
-
-### 🔐 Security & Research
-- Secret detection systems  
-- Data analysis & pattern detection  
-- Distributed systems research  
-
-### 🤖 Automation & Data
-- Web scraping pipelines  
-- Data extraction & filtering  
-- Automation systems  
-
-### 📱 Cross-Platform
-- 🌐 Web (Next.js, React)  
-- 📱 Mobile (Flutter / Dart)  
-- 🖥️ Desktop (Tauri, Rust, Go)  
+- 📡 Real-time data systems (MQTT, WebSockets, tracking platforms)
+- 🔐 Security engineering & detection systems
+- 🤖 Automation pipelines and large-scale data processing
+- 🖥️ Cross-platform application development (Web, Mobile, Desktop)
+- ⚙️ Backend architecture and distributed services
 
 ---
 
-## ⚡ Tech Stack
+## 🚀 Projects
+
+- VaultGuard — Security detection tool   
+- GitTracker — Repo analytics tool
+- Many More Private Tolls and Softwares 
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=w1hi4&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=w1hi4&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🔥 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=w1hi4&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,nestjs,postgres,mongodb,python,go,rust,dart,flutter,docker,git" />
@@ -51,35 +60,13 @@
 
 ---
 
-## 📊 GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=w1hi4&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1hi4&layout=compact&theme=tokyonight" height="160"/>
-</p>
+## 📬 Contact
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=w1hi4&theme=tokyonight" />
-</p>
+- Email: samaniwahiduddin382@gmail.com  
+- LinkedIn: https://linkedin.com/in/samani-wahiduddin  
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/w1hi4/w1hi4/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## ⚡ Philosophy
-
-> Systems > Scripts  
-> Scalable > Temporary  
-> Real-world > Demo projects  
-
----
-
-## 🚀 Final Note
-
-> I focus on building systems that are scalable, secure, and usable in real-world environments.
+<sub>Built for real-world systems</sub>

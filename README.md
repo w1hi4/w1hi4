@@ -11,3 +11,33 @@
 
 ```diff
 + I build scalable systems, security tools, and cross-platform applications.
+📡 Real-time systems (MQTT, tracking, dashboards)
+🔐 Security research & detection systems
+🤖 Automation & data pipelines
+🖥️ Cross-platform apps (Web, Mobile, Desktop)
+⚙️ Backend architecture & APIs
+🚀 Domains I Work In
+⚡ Systems & Infrastructure
+Real-time tracking systems
+Dashboard & monitoring platforms
+API & backend architecture
+🔐 Security & Research
+Secret detection systems
+Data analysis & pattern detection
+Research in distributed systems
+🤖 Automation & Data
+Web scraping pipelines
+Data extraction & filtering
+Script-based automation systems
+📱 Cross-Platform Development
+🌐 Web Apps (Next.js, React)
+📱 Mobile Apps (Flutter / Dart)
+🖥️ Desktop Apps (Tauri, Rust, Go)
+⚡ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,nestjs,postgres,mongodb,python,go,rust,dart,flutter,docker,git" /> </p>
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=w1hi4&show_icons=true&theme=tokyonight&border_radius=10" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1hi4&layout=compact&theme=tokyonight&border_radius=10" height="165"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=w1hi4&theme=tokyonight&border_radius=10"/> </p>
+🐍 Contribution Graph
+<p align="center"> <img src="https://raw.githubusercontent.com/w1hi4/w1hi4/output/github-contribution-grid-snake.svg" /> </p>
+⚡ Final Note
+I focus on building systems that are scalable, secure, and usable in real-world environments.

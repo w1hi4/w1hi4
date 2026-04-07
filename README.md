@@ -14,21 +14,21 @@
 
 ## 🧠 About Me
 
-**Wahiduddin Samani** — Full-Stack Developer specializing in real-time infrastructure, security-focused systems, and scalable backend architecture.
+**Wahiduddin Samani** — Full-Stack Developer specializing in real-time systems, security-focused applications, and scalable backend architecture.
 
-- 📡 Real-time data systems (MQTT, WebSockets, tracking platforms)  
+- 📡 Real-time systems (MQTT, WebSockets, tracking platforms)  
 - 🔐 Security engineering & detection systems  
 - 🤖 Automation pipelines and large-scale data processing  
-- 🖥️ Cross-platform application development (Web, Mobile, Desktop)  
+- 🖥️ Cross-platform development (Web • Mobile • Desktop)  
 - ⚙️ Backend architecture and distributed services  
 
 ---
 
 ## 🚀 Projects
 
-- 🔐 **VaultGuard** — Security detection tool  
-- 📊 **GitTracker** — Repository analytics tool  
-- ⚡ Multiple private tools & internal systems  
+- 🔐 **VaultGuard** — Security detection and secret scanning tool  
+- 📊 **GitTracker** — Repository analytics and monitoring tool  
+- ⚡ Multiple private tools and internal systems  
 
 ---
 
@@ -40,7 +40,7 @@
 
 ---
 
-## 🔥 Activity Graph
+## 🔥 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=w1hi4&theme=tokyo-night&hide_border=true" />
@@ -51,7 +51,16 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,nestjs,postgres,mongodb,python,go,rust,dart,flutter,docker,git" />
+  <!-- Core Stack -->
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,nestjs,postgres,mongodb,python,go,rust,dart,flutter,kotlin,docker,git&perline=8" />
+</p>
+
+<p align="center">
+  <!-- Extended Stack -->
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
 ---

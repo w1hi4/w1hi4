@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=FullStack+Developer;Security+Researcher;Production+Infrastructure&center=true&width=600&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Security+Researcher;Production+Infrastructure&center=true&width=600&height=50" />
 </h1>
 
 <p align="center">
@@ -14,32 +14,28 @@
 
 ## 🧠 About Me
 
-**Wahiduddin Samani** — FullStackDevelope specializing in real-time infrastructure, security-focused systems, and scalable backend architecture.
+**Wahiduddin Samani** — Full-Stack Developer specializing in real-time infrastructure, security-focused systems, and scalable backend architecture.
 
-- 📡 Real-time data systems (MQTT, WebSockets, tracking platforms)
-- 🔐 Security engineering & detection systems
-- 🤖 Automation pipelines and large-scale data processing
-- 🖥️ Cross-platform application development (Web, Mobile, Desktop)
-- ⚙️ Backend architecture and distributed services
+- 📡 Real-time data systems (MQTT, WebSockets, tracking platforms)  
+- 🔐 Security engineering & detection systems  
+- 🤖 Automation pipelines and large-scale data processing  
+- 🖥️ Cross-platform application development (Web, Mobile, Desktop)  
+- ⚙️ Backend architecture and distributed services  
 
 ---
 
 ## 🚀 Projects
 
-- VaultGuard — Security detection tool   
-- GitTracker — Repo analytics tool
-- Many More Private Tools and Softwares 
+- 🔐 **VaultGuard** — Security detection tool  
+- 📊 **GitTracker** — Repository analytics tool  
+- ⚡ Multiple private tools & internal systems  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=w1hi4&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=w1hi4&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=w1hi4&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -60,6 +56,12 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/w1hi4/w1hi4/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
 ## 📬 Contact
@@ -69,4 +71,4 @@
 
 ---
 
-<sub>Built for real-world systems</sub>
+<sub>Built for real-world systems • Focused on performance, scalability, and reliability</sub>

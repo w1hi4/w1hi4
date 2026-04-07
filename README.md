@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Systems+Engineer;Security+Researcher;Real-Time+Systems;Production+Infrastructure&center=true&width=600&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=FullStack+Developer;Security+Researcher;Production+Infrastructure&center=true&width=600&height=50" />
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-**Wahiduddin Samani** — Systems Engineer specializing in real-time infrastructure, security-focused systems, and scalable backend architecture.
+**Wahiduddin Samani** — FullStackDevelope specializing in real-time infrastructure, security-focused systems, and scalable backend architecture.
 
 - 📡 Real-time data systems (MQTT, WebSockets, tracking platforms)
 - 🔐 Security engineering & detection systems

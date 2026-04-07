@@ -28,7 +28,7 @@
 
 - VaultGuard — Security detection tool   
 - GitTracker — Repo analytics tool
-- Many More Private Tolls and Softwares 
+- Many More Private Tools and Softwares 
 
 ---
 

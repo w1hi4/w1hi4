@@ -19,7 +19,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 **Wahiduddin Samani** — Full-Stack Developer specializing in real-time systems, security-focused applications, and scalable backend architecture.
 
@@ -31,7 +31,7 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 - 🔐 **VaultGuard** — Security detection and secret scanning tool  
 - 📊 **GitTracker** — Repository analytics and monitoring tool  
@@ -39,7 +39,7 @@
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=w1hi4&theme=tokyonight&hide_border=true" height="170"/>
@@ -47,7 +47,7 @@
 
 ---
 
-## 🔥 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=w1hi4&theme=tokyo-night&hide_border=true" />

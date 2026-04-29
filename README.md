@@ -24,7 +24,7 @@
 **Wahiduddin Samani** — Full-Stack Developer specializing in real-time systems, security-focused applications, and scalable backend architecture.
 
 - 📡 Real-time systems (WebSockets, tracking platforms)  
-- 🔐 Security engineering & detection systems  
+- 🔐 Security engineering and detection systems  
 - 🤖 Automation pipelines and large-scale data processing  
 - 🖥️ Cross-platform development (Web • Mobile • Desktop)  
 - ⚙️ Backend architecture and distributed services  
